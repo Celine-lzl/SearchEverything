@@ -1,0 +1,39 @@
+2019-08-10 20:09:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-10 20:09:05 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-10 20:09:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-10 20:09:05 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:46:31 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
+2019-08-12 00:50:43 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "THING" not found; SQL statement:
+insert into thing (name,path,depth,file_type) values (?,?,?,?) [42102-197]
